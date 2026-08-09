@@ -44,6 +44,7 @@ export const aboutHighlights = [
 
 export const books = [
   {
+    slug: "like-a-diamond-in-the-sky",
     title: "Like a Diamond in the Sky",
     year: "2009",
     publisher: "Penguin India / Zubaan",
@@ -52,6 +53,7 @@ export const books = [
       "Debut novel exploring alienated youth and drug abuse in Dhaka — a journey to redemption.",
   },
   {
+    slug: "intentional-smile",
     title: "Intentional Smile",
     year: "2013",
     publisher: "Bloomsbury",
@@ -60,6 +62,7 @@ export const books = [
       "A Girl's Guide to Positive Living — a mind, body, and spirit book on cultivating happiness.",
   },
   {
+    slug: "dark-diamond",
     title: "Dark Diamond",
     year: "2016",
     publisher: "Bloomsbury",
@@ -68,6 +71,7 @@ export const books = [
       "Mughal noir — a riotous ride through history, power, and the diamond that legends are made of.",
   },
   {
+    slug: "sun-moon-secret",
     title: "Sun Moon Secret",
     year: "2022",
     publisher: "Guba Books",
@@ -75,6 +79,7 @@ export const books = [
     description: "Children's book — order on Guba Books.",
   },
   {
+    slug: "ranis-seashell-necklace",
     title: "Rani's Seashell Necklace",
     year: "2022",
     publisher: "Guba Books",
@@ -82,6 +87,7 @@ export const books = [
     description: "Children's book — order on Guba Books.",
   },
   {
+    slug: "golden-bangladesh-50",
     title: "Golden: Bangladesh @ 50",
     year: "2021",
     publisher: "UPL",
