@@ -1,5 +1,5 @@
 import Image from "next/image";
-import {aboutHighlights} from "@/lib/content";
+import {aboutHighlights, site} from "@/lib/content";
 
 export function About() {
   return (
@@ -28,26 +28,41 @@ export function About() {
               About me
             </p>
             <h2 className="font-display text-4xl text-white md:text-5xl">
-              I am a warrior
+              "I am a warrior"
             </h2>
             <div className="mt-8 space-y-5 text-base leading-relaxed text-white/60">
               <p>
-                Shazia Omar is a Bangladeshi novelist, social psychologist,
-                development professional, and certified yoga instructor. She
-                completed her undergraduate studies at Dartmouth College and her
-                Master&apos;s in Social Psychology at the London School of
-                Economics.
+                Shazia Omar writes fiction shaped by everything else she's
+                lived. A social psychologist by training (she completed her
+                undergraduate studies at Dartmouth College and a Master's in
+                Social Psychology at the London School of Economics), she has
+                spent years studying how people cope, connect, and survive, work
+                that later carried into grassroots development and advocacy.
               </p>
               <p>
-                As a writer, she has authored novels, children&apos;s books, a
-                mind-body-spirit guide, and curated anthologies. As a yogini,
-                she has taught Ashtanga yoga and pilates for over fifteen years.
-                As a founder, she leads{" "}
-                <span className="text-white">The Flow Fest</span> — a platform
-                for wellness, movement, creativity, and healing.
+                That same attention shows up in her novels: in the addiction and
+                redemption of Like a Diamond in the Sky, in the historical power
+                plays of Dark Diamond, in the children's stories written for the
+                girls she works alongside. Fifteen years of teaching Ashtanga
+                yoga taught her to sit with the body's own kind of knowledge; a
+                decade of development work, on poverty, migration, and gender,
+                taught her whose stories don't get told. Both find their way
+                onto the page.
+              </p>
+              <p>
+                She now channels all of it into{" "}
+                <a
+                  href={"https://theflowfest.com"}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                  className="text-white underline decoration-white/30 underline-offset-4 transition-colors hover:decoration-white"
+                >
+                  The Flow Fest
+                </a>
+                , a platform for wellness, movement, creativity, and healing.
               </p>
               <p className="font-display text-xl text-white/80 italic">
-                Thank you for visiting my universe.
+                "Thank you for visiting my universe."
               </p>
             </div>
           </div>
