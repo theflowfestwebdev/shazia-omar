@@ -40,7 +40,7 @@ export function Hero() {
             </p>
             <div className="mt-10 flex flex-wrap gap-4">
               <a
-                href="#writing"
+                href="#launch"
                 className="inline-flex items-center border border-white/30 px-8 py-3 text-xs tracking-[0.25em] text-white uppercase transition-all hover:border-white hover:bg-white hover:text-black"
               >
                 Explore Work
