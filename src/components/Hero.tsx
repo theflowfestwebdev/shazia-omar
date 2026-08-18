@@ -26,8 +26,9 @@ export function Hero() {
               {site.name}
             </h1>
             <p className="mt-6 max-w-lg text-base leading-relaxed text-white/60 md:text-lg">
-              Bangladeshi novelist, social psychologist, and yoga instructor.
-              Founder of{" "}
+              Bangladeshi novelist writing between Dhaka's streets and its
+              silences — drawing on years in psychology, yoga, and grassroots
+              development. Founder of{" "}
               <a
                 href={site.social.flowFest}
                 target="_blank"
@@ -55,17 +56,17 @@ export function Hero() {
           </div>
 
           <div className="hidden w-48 shrink-0 lg:block">
-            <div className="relative aspect-[343/500] overflow-hidden border border-white/10">
+            <div className="relative aspect-[4/5] overflow-hidden border border-white/10">
               <Image
-                src="/images/hero/home.jpg"
-                alt="Home is where the heart is"
+                src="/images/books/beingwater.jpg"
+                alt="Being Water"
                 fill
-                className="object-cover grayscale transition-all duration-700 hover:grayscale-0"
+                className="object-cover transition-all duration-700 hover:grayscale-0"
                 sizes="192px"
               />
             </div>
             <p className="mt-3 text-center text-[10px] tracking-[0.3em] text-white/40 uppercase">
-              home is where the heart is
+              New Release
             </p>
           </div>
         </div>

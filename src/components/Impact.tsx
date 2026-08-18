@@ -1,5 +1,5 @@
 import Image from "next/image";
-import { impactAreas } from "@/lib/content";
+import {impactAreas} from "@/lib/content";
 
 export function Impact() {
   return (
@@ -27,14 +27,15 @@ export function Impact() {
               Manifesto for the Extreme Poor
             </h2>
             <p className="mt-6 text-base leading-relaxed text-white/55">
-              Beyond literature and yoga, Shazia is a development professional
-              dedicated to eradicating extreme poverty. She writes on social
-              protection, digital inclusion, migration, gender equity, and
-              climate resilience — giving voice to the most vulnerable.
+              Shazia's fiction has always been rooted in the lives of the
+              extreme poor, with her development work being where those stories
+              are sourced. Across social protection, digital inclusion,
+              migration, gender equity, and climate resilience, she writes to
+              give voice to the most vulnerable, on the page and off it.
             </p>
 
             <ul className="mt-8 grid gap-3 sm:grid-cols-2">
-              {impactAreas.map((area) => (
+              {impactAreas.map(area => (
                 <li
                   key={area}
                   className="flex items-start gap-3 text-sm text-white/50"

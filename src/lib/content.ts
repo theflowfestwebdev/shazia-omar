@@ -33,7 +33,7 @@ export const aboutHighlights = [
   {
     image: "/images/about/agape.jpg",
     title: "Agape",
-    caption: "Unconditional love — these are my babies",
+    caption: `Unconditional love — "These are my babies"`,
   },
   {
     image: "/images/about/streets.jpg",

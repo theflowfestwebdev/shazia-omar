@@ -6,6 +6,7 @@ import {Yoga} from "@/components/Yoga";
 import {FlowFest} from "@/components/FlowFest";
 import {Impact} from "@/components/Impact";
 import {Footer} from "@/components/Footer";
+import {Feature} from "@/components/Feature";
 
 export default function Home() {
   return (
@@ -16,7 +17,6 @@ export default function Home() {
         <About />
         <Books />
         <Yoga />
-        {/* <FlowFest /> */}
         <Impact />
       </main>
       <Footer />
