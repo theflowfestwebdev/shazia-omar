@@ -63,8 +63,8 @@ export function Feature() {
               </div>
             </dl>
 
-            {/* <a
-              href="https://theflowfest.com/beingwater"
+            <a
+              href="https://forms.gle/k3DjFzTeU49RhHE76"
               target="_blank"
               rel="noopener noreferrer"
               className="mt-10 inline-flex items-center border border-white/30 px-8 py-3 text-xs tracking-[0.25em] text-white uppercase transition-all hover:border-white hover:bg-white hover:text-black"
@@ -85,7 +85,7 @@ export function Feature() {
                 <path d="M5 12h14" />
                 <path d="m12 5 7 7-7 7" />
               </svg>
-            </a> */}
+            </a>
           </div>
         </div>
       </div>
