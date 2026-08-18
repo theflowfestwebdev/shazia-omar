@@ -26,9 +26,8 @@ export function Hero() {
               {site.name}
             </h1>
             <p className="mt-6 max-w-lg text-base leading-relaxed text-white/60 md:text-lg">
-              Bangladeshi novelist writing between Dhaka's streets and its
-              silences — drawing on years in psychology, yoga, and grassroots
-              development. Founder of{" "}
+              Bangladeshi novelist drawing on years in psychology, yoga, and
+              grassroots development. Founder of{" "}
               <a
                 href={site.social.flowFest}
                 target="_blank"
