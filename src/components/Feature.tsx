@@ -33,7 +33,29 @@ export function Feature() {
             </h2>
             <p className="mt-5 text-base leading-relaxed text-white/55">
               Shazia&apos;s newest work, launching this October — an evening of
-              literature, reflection, and celebration to mark its release.
+              literature, reflection, and celebration to mark its release. Order
+              on{" "}
+              <a
+                href={
+                  "https://www.amazon.in/Being-Water-Shazia-Omar/dp/9363956415"
+                }
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white underline decoration-white/30 underline-offset-4 transition-colors hover:decoration-white"
+              >
+                Amazon India
+              </a>{" "}
+              and{" "}
+              <a
+                href={
+                  "https://www.ombooksinternational.com/product/being-water/"
+                }
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white underline decoration-white/30 underline-offset-4 transition-colors hover:decoration-white"
+              >
+                Om Books
+              </a>
             </p>
 
             <dl className="mt-10 space-y-4 border-t border-white/10 pt-8">
@@ -70,6 +92,21 @@ export function Feature() {
               className="text-center justify-center mt-10 inline-flex items-center border border-white/30 px-8 py-3 text-xs tracking-[0.25em] text-white uppercase transition-all hover:border-white hover:bg-white hover:text-black"
             >
               <span>Register to attend</span>
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="12"
+                height="12"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                strokeWidth="2"
+                strokeLinecap="round"
+                strokeLinejoin="round"
+                className="lucide ml-2 lucide-arrow-right-icon lucide-arrow-right"
+              >
+                <path d="M5 12h14" />
+                <path d="m12 5 7 7-7 7" />
+              </svg>
             </a>
           </div>
         </div>
