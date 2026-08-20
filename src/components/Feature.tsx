@@ -56,7 +56,7 @@ export function Feature() {
               >
                 Om Books
               </a>
-              and
+              {" and "}
               <a
                 href="https://www.facebook.com/share/1HKxyERbrS/"
                 target="_blank"
