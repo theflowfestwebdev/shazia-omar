@@ -44,8 +44,8 @@ export function Feature() {
                 className="text-white underline decoration-white/30 underline-offset-4 transition-colors hover:decoration-white"
               >
                 Amazon India
-              </a>{" "}
-              and{" "}
+              </a>
+              ,{" "}
               <a
                 href={
                   "https://www.ombooksinternational.com/product/being-water/"
@@ -55,6 +55,15 @@ export function Feature() {
                 className="text-white underline decoration-white/30 underline-offset-4 transition-colors hover:decoration-white"
               >
                 Om Books
+              </a>
+              and
+              <a
+                href="https://www.facebook.com/share/1HKxyERbrS/"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-white underline decoration-white/30 underline-offset-4 transition-colors hover:decoration-white"
+              >
+                The Bookworm
               </a>
             </p>
 
