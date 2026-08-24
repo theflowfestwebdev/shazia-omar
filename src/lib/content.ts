@@ -1,7 +1,7 @@
 export const site = {
   name: "Shazia Omar",
   tagline: "",
-  email: "shaziaomar@gmail.com.com",
+  email: "shaziaomar@gmail.com",
   social: {
     instagram: "https://instagram.com/shazzyom",
     youtube: "https://youtube.com/ShazzyOm",
