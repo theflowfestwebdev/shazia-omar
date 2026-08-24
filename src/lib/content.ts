@@ -1,11 +1,11 @@
 export const site = {
   name: "Shazia Omar",
   tagline: "",
-  email: "shazia@shaziaomar.com",
+  email: "shaziaomar@gmail.com.com",
   social: {
     instagram: "https://instagram.com/shazzyom",
     youtube: "https://youtube.com/ShazzyOm",
-    facebook: "https://facebook.com/yogilatesindhaka",
+    facebook: "https://www.facebook.com/p/Shazia-Omar-100055506643606/",
     flowFest: "https://theflowfest.com",
   },
 };
