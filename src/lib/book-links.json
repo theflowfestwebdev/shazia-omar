@@ -1,14 +1,21 @@
-
-
 {
   "sun-moon-secret": {
     "groups": [
       {
-        "label": "Links",
+        "label": "Order",
         "links": [
           {
             "text": "Guba Books",
             "href": "https://gubabooks.com/"
+          }
+        ]
+      },
+      {
+        "label": "Book Events",
+        "links": [
+          {
+            "text": "Family Performances with Detroit Puppet Company: Sun Moon Secret",
+            "href": "https://ums.org/performance/family-performances-with-detroit-puppet-company-sun-moon-secret/"
           }
         ]
       }
