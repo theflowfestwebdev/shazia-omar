@@ -93,30 +93,39 @@ export function Feature() {
                 </dd>
               </div>
             </dl>
-
-            <a
-              href="https://forms.gle/k3DjFzTeU49RhHE76"
-              target="_blank"
-              rel="noopener noreferrer"
-              className="text-center justify-center mt-10 inline-flex items-center border border-white/30 px-8 py-3 text-xs tracking-[0.25em] text-white uppercase transition-all hover:border-white hover:bg-white hover:text-black"
-            >
-              <span>Register to attend</span>
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="12"
-                height="12"
-                viewBox="0 0 24 24"
-                fill="none"
-                stroke="currentColor"
-                strokeWidth="2"
-                strokeLinecap="round"
-                strokeLinejoin="round"
-                className="lucide ml-2 lucide-arrow-right-icon lucide-arrow-right"
+            <div className="grid gap-4">
+              <a
+                href="https://forms.gle/k3DjFzTeU49RhHE76"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-center justify-center mt-10 inline-flex items-center border border-white/30 px-8 py-3 text-xs tracking-[0.25em] text-white uppercase transition-all hover:border-white hover:bg-white hover:text-black"
               >
-                <path d="M5 12h14" />
-                <path d="m12 5 7 7-7 7" />
-              </svg>
-            </a>
+                <span>Register to attend</span>
+              </a>
+              <a
+                href="https://www.tbsnews.net/splash/being-water-grief-loss-and-learning-let-go-1539931"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-center justify-center inline-flex items-center border border-white/30 px-8 py-3 text-xs tracking-[0.25em] text-white uppercase transition-all hover:border-white hover:bg-white hover:text-black"
+              >
+                <span>READ MORE ON THE TBS FEATURE</span>
+                <svg
+                  xmlns="http://www.w3.org/2000/svg"
+                  width="12"
+                  height="12"
+                  viewBox="0 0 24 24"
+                  fill="none"
+                  stroke="currentColor"
+                  strokeWidth="2"
+                  strokeLinecap="round"
+                  strokeLinejoin="round"
+                  className="lucide ml-2 lucide-arrow-right-icon lucide-arrow-right"
+                >
+                  <path d="M5 12h14" />
+                  <path d="m12 5 7 7-7 7" />
+                </svg>
+              </a>
+            </div>
           </div>
         </div>
       </div>
