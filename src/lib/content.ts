@@ -43,16 +43,15 @@ export const aboutHighlights = [
 ];
 
 export const books = [
-  // {
-  //   slug: "being-water",
-  //   title: "Being Water",
-  //   year: "2026",
-  //   publisher: "Om Books",
-  //   image:
-  //     "https://m.media-amazon.com/images/G/31/apparel/rcxgs/tile._CB483369979_.gif",
-  //   description:
-  //     "Debut novel exploring alienated youth and drug abuse in Dhaka — a journey to redemption.",
-  // },
+  {
+    slug: "being-water",
+    title: "Being Water",
+    year: "2026",
+    publisher: "Om Books",
+    image: "/images/books/beingwater.jpg",
+    description:
+      "Grief is a delicate and wild animal. It has a tendency to solidify and take the shape of a jailer, holding hostages within the cages of one's own mind. But it is also a sister, a mother, a father, someone who cradles you within clay-covered hands, forming and moulding the person you have the chance to become.",
+  },
   {
     slug: "like-a-diamond-in-the-sky",
     title: "Like a Diamond in the Sky",
