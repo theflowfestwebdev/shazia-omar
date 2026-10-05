@@ -1,4 +1,34 @@
 {
+  "being-water": {
+    "groups": [
+      {
+        "label": "Order",
+        "links": [
+          {
+            "text": "Amazon India",
+            "href": "https://www.amazon.in/Being-Water-Shazia-Omar/dp/9363956415"
+          }
+        ]
+      },
+      {
+        "label": "Media Hits",
+        "links": [
+          {
+            "text": "Times of Bangladesh",
+            "href": "https://www.tbsnews.net/splash/being-water-grief-loss-and-learning-let-go-1539931"
+          },
+          {
+            "text": "The Daily Sun",
+            "href": "https://www.daily-sun.com/bangladesh/901306/shazia-omar-s-being-water-closes-bookworm-literary-festival"
+          },
+          {
+            "text": "United News of Bangladesh",
+            "href": "https://unb.com.bd/category/Entertainment/shazia-omar-explores-grief-healing-in-being-water/196994"
+          }
+        ]
+      }
+    ]
+  },
   "sun-moon-secret": {
     "groups": [
       {

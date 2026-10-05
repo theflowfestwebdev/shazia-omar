@@ -1,4 +1,4 @@
-import { site } from "@/lib/content";
+import {site} from "@/lib/content";
 
 export function Footer() {
   return (
@@ -10,8 +10,8 @@ export function Footer() {
               Let&apos;s connect
             </h2>
             <p className="mt-4 max-w-md text-base leading-relaxed text-white/50">
-              For yoga classes, corporate workshops, literary inquiries, or
-              Flow Fest collaborations — reach out and say hello.
+              For yoga classes, corporate workshops, literary inquiries, or Flow
+              Fest collaborations — reach out and say hello.
             </p>
             <a
               href={`mailto:${site.email}`}
